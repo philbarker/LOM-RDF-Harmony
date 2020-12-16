@@ -1,0 +1,113 @@
+<http://pjjk.local/resources/FdW84TkcrZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.pjjk.local/lom/terms/LearningObject>.
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/learningResourceType> <lomCon:/learningResourceType/Lecture>.
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/difficulty> <lomCon:/difficulty/Medium>.
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/typical_learning_time> "PT15M"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/status> <lomCon:/status/Final>.
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/title> "Alien and Invasive Species showcase".
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/description> "The case study was proposed by the LifeWatch CT Mediterranean in order to explore the susceptibility of EUNIS habitat to AS invasions. The case study was originally presented for freshwater and marine habitat (Boggero et al., 2014; Corriero et al, 2016). In the VRE alien species the case study, originally used to analyze freshwater and marine habitat, has been generalized to work with any biodiversity dataset available in the LW data portal. For a full comprehension of the rationale of the case study and the statistical approach used we strongly encourage the users to read carefully Boggero et al. (2014) and Corriero et al. (2016).".
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/keywords> "alien species".
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/keywords> "invasive species".
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/keywords> "EUNIS habitat".
+<http://pjjk.local/resources/FdW84TkcrZ> <http://ns.pjjk.local/lom/terms/location> "http://training.servicecentrelifewatch.eu/course/view.php?id=9"^^<http://www.w3.org/2001/XMLSchema#anyURI>.
+<http://pjjk.local/resources/Ytb7016Ijs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.pjjk.local/lom/terms/LearningObject>.
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/learningResourceType> <lomCon:/learningResourceType/Lecture>.
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/difficulty> <lomCon:/difficulty/Easy>.
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/typical_learning_time> "Knowledge-dependent"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/status> <lomCon:/status/Final>.
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/title> "INTERNATIONAL SUMMER SCHOOL Data FAIRness in Environmental & Earth Science Infrastructures: theory and practice".
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/description> "In recent years, one of the major challenges in the Environmental and Earth Science has been managing and searching larger volumes of complex data, collected across multiple disciplines. Many different standards, technologies and common practices have been developed to support each phase of the Data Lifecycle (Data Acquisition, Data Curation, Data Publishing, Data Processing and Data (Re)Use. The course will focus on the creation and reuse of FAIR data and services in the Environmental and Earth sciences. It is built as a five-day summer school where leading scientists will address various topics from different perspectives.".
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/keywords> "fairness".
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/keywords> "fair".
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/keywords> "data".
+<http://pjjk.local/resources/Ytb7016Ijs> <http://ns.pjjk.local/lom/terms/location> "http://training.servicecentrelifewatch.eu/enrol/index.php?id=13"^^<http://www.w3.org/2001/XMLSchema#anyURI>.
+<http://pjjk.local/resources/kHhx9jiEZn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.pjjk.local/lom/terms/LearningObject>.
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/learningResourceType> <lomCon:/learningResourceType/Narrative%20text>.
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/difficulty> <lomCon:/difficulty/Easy>.
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/typical_learning_time> "PT55M45S"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/status> <lomCon:/status/Final>.
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/title> "PHYTO VRE guidelines".
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/description> "This course starts from an introduction to the PHYTO VRE and related terminology to then guide users to access and use the PHYTO VRE, and to the possibilities offered by its tools and data analysis. At the end the Showcase: Phytoplankton traits-based analysis is presented.".
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/keywords> "phytoplankton".
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/keywords> "traits".
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/keywords> "data analysis".
+<http://pjjk.local/resources/kHhx9jiEZn> <http://ns.pjjk.local/lom/terms/location> "http://training.servicecentrelifewatch.eu/course/view.php?id=11"^^<http://www.w3.org/2001/XMLSchema#anyURI>.
+<http://pjjk.local/resources/SOFHCa8sIf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.pjjk.local/lom/terms/LearningObject>.
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/learningResourceType> <lomCon:/learningResourceType/Questionnaire>.
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/difficulty> <lomCon:/difficulty/Medium>.
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/typical_learning_time> "Knowledge-dependent"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/status> <lomCon:/status/Unavailable>.
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/title> "ENVRI gaming".
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/description> "ENVRIplus Game is an online game aimed at students from all schools in Europe. Through this game, they will be able to increase their knowledge of how to study the sciences of the world around us, and learn how to plan new research in the field of Ecology. Furthermore, they will be able to participate in the European final of the competition and interact with other students from other countries.".
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/keywords> "gaming".
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/keywords> "scientific game".
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/keywords> "ENVRI".
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/keywords> "Ecology".
+<http://pjjk.local/resources/SOFHCa8sIf> <http://ns.pjjk.local/lom/terms/location> "http://193.204.79.99/"^^<http://www.w3.org/2001/XMLSchema#anyURI>.
+<http://pjjk.local/resources/_OhX8O6YwP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.pjjk.local/lom/terms/LearningObject>.
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/learningResourceType> <lomCon:/learningResourceType/Questionnaire>.
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/difficulty> <lomCon:/difficulty/Medium>.
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/typical_learning_time> "Knowledge-dependent"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/status> <lomCon:/status/Unavailable>.
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/title> "MEDCIS game".
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/description> "MEDCIS Scientific Gaming is an innovative effort to motivate students by replicating the excitement of scientific research applied to address a major ecological challenge in the Mediterranean Region, i.e. monitoring and protecting the health of the Mediterranean Sea. The MEDCIS Scientific Gaming is a participative and user-friendly tool of the MEDCIS project developed in the context of the need of a science-based knowledge to make fully operational an innovative European Directive focusing on the protection of the life in the Mediterranean Sea, as well as of all services that it is supplying since millennia to the socio-economic development of our communities: the Marine Strategy Framework Directive (MSFD).   MEDCIS Scientific Gaming will allow your students to study and apply the method of scientific research applied to the monitoring of ecological and environmental status of Mediterranean marine ecosystems in a entertaining way through the use of a video game focused on ecological tools useful to describe the marine ecosystem status, such as biodiversity, water noise, eutrophication, alien species and on the approach of the Marine Strategy Framework Directive.".
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/keywords> "gaming".
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/keywords> "scientific game".
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/keywords> "Marine Strategy Framework Directive".
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/keywords> "MSFD".
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/keywords> "MEDCIS".
+<http://pjjk.local/resources/_OhX8O6YwP> <http://ns.pjjk.local/lom/terms/location> "http://medcis.scientificgame.unisalento.it/"^^<http://www.w3.org/2001/XMLSchema#anyURI>.
+<http://pjjk.local/resources/RcwrBMYavY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.pjjk.local/lom/terms/LearningObject>.
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/learningResourceType> <lomCon:/learningResourceType/Questionnaire>.
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/difficulty> <lomCon:/difficulty/Medium>.
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/typical_learning_time> "Knowledge-dependent"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/status> <lomCon:/status/Unavailable>.
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/title> "EcoLogicaCup".
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/description> "The olympics of ecology for young people: the first national online ecology competition aimed at first and second grade secondary school children".
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/keywords> "game".
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/keywords> "Italian".
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/keywords> "ecology".
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/keywords> "competition ".
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/keywords> "school".
+<http://pjjk.local/resources/RcwrBMYavY> <http://ns.pjjk.local/lom/terms/location> "http://www.ecologicacup.unisalento.it/"^^<http://www.w3.org/2001/XMLSchema#anyURI>.
+<http://pjjk.local/resources/DSEdW5uVa2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.pjjk.local/lom/terms/LearningObject>.
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/learningResourceType> <lomCon:/learningResourceType/Questionnaire>.
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/difficulty> <lomCon:/difficulty/Medium>.
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/typical_learning_time> "Knowledge-dependent"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/status> <lomCon:/status/Unavailable>.
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/title> "Research Game".
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/description> "Research Game is the European Scientific Research Game for School's Platform.".
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/keywords> "gaming".
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/keywords> "research game".
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/keywords> "european".
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/keywords> "schools".
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/keywords> "competition".
+<http://pjjk.local/resources/DSEdW5uVa2> <http://ns.pjjk.local/lom/terms/location> "http://193.204.79.61/game_lw/"^^<http://www.w3.org/2001/XMLSchema#anyURI>.
+<http://pjjk.local/resources/xBFS53Iesg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.pjjk.local/lom/terms/LearningObject>.
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/learningResourceType> <lomCon:/learningResourceType/Questionnaire>.
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/difficulty> <lomCon:/difficulty/Medium>.
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/typical_learning_time> "Knowledge-dependent"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/status> <lomCon:/status/Unavailable>.
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/title> "ECOPOTENTIAL 4SCHOOLS ".
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/description> " ECOPOTENTIAL 4SCHOOLS Scientific Game:  You can test your skills in the field of Scientific Research with ECOPOTENTIAL4SCHOOLS, an online game addressed to students coming from all European Schools".
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/keywords> "gaming".
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/keywords> "Scientific Game".
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/keywords> "school".
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/keywords> "research ".
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/keywords> "competition".
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/keywords> "ecopotential".
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/keywords> "european".
+<http://pjjk.local/resources/xBFS53Iesg> <http://ns.pjjk.local/lom/terms/location> "http://ecopotential4schools.lifewatchitaly.eu/"^^<http://www.w3.org/2001/XMLSchema#anyURI>.
+<http://pjjk.local/resources/wABVJnQQy4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ns.pjjk.local/lom/terms/LearningObject>.
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/learningResourceType> <lomCon:/learningResourceType/Questionnaire>.
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/difficulty> <lomCon:/difficulty/Medium>.
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/typical_learning_time> "PT15M"^^<http://www.w3.org/2001/XMLSchema#duration>.
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/status> <lomCon:/status/Final>.
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/title> "Save the eel".
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/description> "Pieterjan Verhelst, a biotelemetry scientist and frequent user of the Belgian LifeWatch infrastructure developed a game “Save the eel”, to inform the general public about the obstacles eels face during their seaward migration.  Dive under water to help Angie the eel into the sea so she can go reproduce in the Sargasso Sea, an area ca. 7000 km west of Europe. As you play the game, you learn more about the eel and the obstacles they need to pass. Did you, for instance, know that eels migrate the 7000 km without feeding, relying on nothing but their fat reserves and even parts of their skeleton?  The game is suitable for both young and old, and can be played in English or Dutch, both on desktop and mobile devices. It can also be embedded in websites via an iframe-embed. So if you would have interest to use the game (for instance for an event where a price can be given to the person with the daily high score), don’t hesitate to contact Pieterjan Verhelst.  The game was developed together with Scriptie vzw and supported by Ghent University, LifeWatch Belgium, the Research Institute for Nature and Forest (INBO), and the Flanders Marine Institute (VLIZ). The game was developed by Slappy.inc.".
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/keywords> "fish migration".
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/keywords> "migration barriers".
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/keywords> "Anguilla".
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/keywords> "eel".
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/keywords> "rivers".
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/keywords> "game".
+<http://pjjk.local/resources/wABVJnQQy4> <http://ns.pjjk.local/lom/terms/location> "http://bit.ly/savetheeel"^^<http://www.w3.org/2001/XMLSchema#anyURI>.

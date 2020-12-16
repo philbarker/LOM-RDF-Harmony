@@ -1,0 +1,59 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sdo: <https://schema.org/> .
+@prefix lomCon: <http://pjjk.local/lom/concepts/> .
+@prefix lomConLRT: <http://pjjk.local/lom/concepts/learningResourceType/> .
+@prefix lomConStatus: <http://pjjk.local/lom/concepts/status/> .
+@prefix lomConDifficulty: <http://pjjk.local/lom/concepts/difficulty/> .
+
+
+lomConLRT: a skos:ConceptScheme , sdo:DefinedTermSet ;
+  dcterms:title "Learning resource types"@en .
+
+lomConLRT:Lecture a skos:Concept , sdo:DefinedTerm ;
+  dcterms:title "Lecture"@en ;
+  sdo:name "Lecture" ;
+  skos:inScheme lomConLRT: ;
+  sdo:inDefinedTermSet  lomConLRT: .
+
+lomConLRT:Questionnaire a skos:Concept , sdo:DefinedTerm ;
+  dcterms:title "Questionnaire"@en ;
+  sdo:name "Questionnaire" ;
+  skos:inScheme lomConLRT: ;
+  sdo:inDefinedTermSet  lomConLRT: .
+
+lomConLRT:Narrative%20text a skos:Concept , sdo:DefinedTerm ;
+  dcterms:title "Narrative text"@en ;
+  sdo:name "Narrative text" ;
+  skos:inScheme lomConLRT: ;
+  sdo:inDefinedTermSet  lomConLRT: .
+
+lomConStatus: a skos:ConceptScheme , sdo:DefinedTermSet ;
+  dcterms:title "Status"@en .
+
+lomConStatus:Unavailable a skos:Concept , sdo:DefinedTerm ;
+  dcterms:title "Unavailable"@en ;
+  sdo:name "Unavailable" ;
+  skos:inScheme lomConStatus: ;
+  sdo:inDefinedTermSet  lomConStatus: .
+
+lomConStatus:Final a skos:Concept , sdo:DefinedTerm ;
+  dcterms:title "Final"@en ;
+  sdo:name "Final" ;
+  skos:inScheme lomConStatus: ;
+  sdo:inDefinedTermSet  lomConStatus: .
+
+lomConDifficulty: a skos:ConceptScheme , sdo:DefinedTermSet ;
+  dcterms:title "Difficulty"@en .
+
+lomConDifficulty:Easy a skos:Concept , sdo:DefinedTerm ;
+  dcterms:title "Easy"@en ;
+  sdo:name "Easy" ;
+  skos:inScheme lomConDifficulty: ;
+  sdo:inDefinedTermSet  lomConDifficulty: .
+
+lomConDifficulty:Medium a skos:Concept , sdo:DefinedTerm ;
+  dcterms:title "Medium"@en ;
+  sdo:name "Medium" ;
+  skos:inScheme lomConDifficulty: ;
+  sdo:inDefinedTermSet  lomConDifficulty: .

@@ -1,0 +1,37 @@
+@prefix lrmi: <http://purl.org/dcx/lrmi-terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sdo: <https://schema.org/> .
+@prefix lom: <http://ns.pjjk.local/lom/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+lom:LearningObject a rdfs:Class ;
+  owl:equivalentClass sdo:LearningResource , lrmi:LearningResource ;
+  rdfs:subClassOf dcat:Resource .
+
+lom:description a rdfs:Property ;
+  owl:equivalentProperty sdo:description , dcterms:description .
+
+lom:difficulty a rdfs:Property ;
+  rdfs:subPropertyOf lrmi:educationalLevel , sdo:educationalLevel .
+
+lom:keywords a rdfs:Property ;
+  owl:equivalentProperty dcat:keywords, sdo:keywords .
+
+lom:learningResourceType a rdfs:Property ;
+  rdfs:subPropertyOf dcterms:type ;
+  owl:equivalentProperty lrmi:learningResourceType , sdo:learningResourceType .
+
+lom:location a rdfs:Property ;
+  owl:equivalentProperty dcat:keywords, sdo:url .
+
+lom:status a rdfs:Property ;
+  owl:equivalentProperty sdo:creativeWorkStatus .
+
+lom:title a rdfs:Property ;
+  rdfs:subPropertyOf sdo:name ;
+  owl:equivalentProperty dcterms:title .
+
+lom:typical_learning_time a rdfs:Property ;
+  owl:equivalentProperty lrmi:timeRquired , sdo:timeRquired .
