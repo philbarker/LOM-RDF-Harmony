@@ -24,7 +24,7 @@ lom:learningResourceType a rdfs:Property ;
   owl:equivalentProperty lrmi:learningResourceType , sdo:learningResourceType .
 
 lom:location a rdfs:Property ;
-  owl:equivalentProperty dcat:keywords, sdo:url .
+  owl:equivalentProperty sdo:url .
 
 lom:status a rdfs:Property ;
   owl:equivalentProperty sdo:creativeWorkStatus .
